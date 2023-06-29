@@ -1,2 +1,3 @@
-Certinia for Developers GitHub Pages site
-Published to: ?URL?
+FinancialForce for Developers GitHub Pages site
+
+Published to: developer.financialforce.com
